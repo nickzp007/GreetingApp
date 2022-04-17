@@ -1,6 +1,5 @@
 package com.brigdelabz.GreetingApp.entity;
 
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.ToString;
