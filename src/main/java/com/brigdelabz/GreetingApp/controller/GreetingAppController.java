@@ -1,5 +1,6 @@
 package com.brigdelabz.GreetingApp.controller;
 
+
 import com.brigdelabz.GreetingApp.entity.Greeting;
 import com.brigdelabz.GreetingApp.service.GreetingService;
 import org.springframework.beans.factory.annotation.Autowired;
