@@ -3,7 +3,6 @@ package com.brigdelabz.GreetingApp.service;
 import com.brigdelabz.GreetingApp.entity.Greeting;
 import com.brigdelabz.GreetingApp.entity.User;
 
-
 public interface GreetingService {
 
     Greeting addGreeting(User user);
